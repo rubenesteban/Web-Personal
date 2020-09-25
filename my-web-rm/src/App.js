@@ -6,6 +6,12 @@ import Portfolio from './components/portfolio/portfolio';
 import Testimonials from  './components/testimonials/testimonials';
 import ContactUs from './components/contactus/contactus';
 import Footer from './components/footer/footer';
+import Links from './components/Links';
+import "./App.css";
+
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 class App extends Component {
   render() {
     return (
@@ -16,7 +22,12 @@ class App extends Component {
           <Portfolio />
           <Testimonials />
           <ContactUs />
+            <div className="row">
+                <Links />
+            </div>
+            <ToastContainer />
           <Footer />
+
         </div>
     );
   }

@@ -6,7 +6,7 @@ export default class portfolio extends Component {
         <section id="portfolio">
         <div className="row">
             <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Aqui puedes ver algo de lo que hecho.</h1>
             {/* portfolio-wrapper */}
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 <div className="columns portfolio-item">
@@ -176,8 +176,8 @@ export default class portfolio extends Component {
             <div id="modal-05" className="popup-modal mfp-hide">
             <img className="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt />
             <div className="description-box">
-                <h4>Farmer Boy</h4>
-                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                <h4>Mecánica</h4>
+                <p>Reconozco  las  partes  mas  esencial  para  un  chequeo  o  revisión  para  el  funcionamiento  de  un  auto  comenzamos  con  la  verificación  del  radiador que  su  contenido  de ve  tener  agua, ver  la  suficiente  capacidad en  el  liquido  de  frenos.</p>
                 <span className="categories"><i className="fa fa-tag" />Branding, Webdesign</span>
             </div>
             <div className="link-box">
@@ -188,8 +188,8 @@ export default class portfolio extends Component {
             <div id="modal-06" className="popup-modal mfp-hide">
             <img className="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt />
             <div className="description-box">
-                <h4>Girl</h4>
-                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                <h4>Moda</h4>
+                <p>Mi  paso de  descubrir  y  trabajar  en   Etafashion  un  establecimiento  de  prendas  de  vestir  y  de  moda  mi  área  fue  la  de  ventas  y  atención  al  cliente  para  adquirir  las  tarjetas   para  uso  de  compras.</p>
                 <span className="categories"><i className="fa fa-tag" />Photography</span>
             </div>
             <div className="link-box">
@@ -201,7 +201,8 @@ export default class portfolio extends Component {
             <img className="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt />
             <div className="description-box">
                 <h4>Origami</h4>
-                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                <p>La  manera  de  distraer  tu  mente  después  de  un  trabajo  de  ocho  horas  de  desempeño  esta  es  una  manera  de  aclarar  tu  mente  y  descansar  en  una  forma  de  aprender  y  distraerte  y  reflejar  a través  de  un  papel  ideas  que  puedes  construir
+                    Por motivos de fallecimiento de mi padre por la pandemia covid-19, adjunto certificado de defunción y copias de cedula .</p>
                 <span className="categories"><i className="fa fa-tag" />Branding, Illustration</span>
             </div>
             <div className="link-box">
@@ -212,8 +213,8 @@ export default class portfolio extends Component {
             <div id="modal-08" className="popup-modal mfp-hide">
             <img className="scale-with-grid" src="images/portfolio/modals/m-retrocam.jpg" alt />
             <div className="description-box">
-                <h4>Retrocam</h4>
-                <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+                <h4>Fotografía</h4>
+                <p>Me  gusta  llevar  una  cámara  o  un  teléfono  para  cuando  viajo  a  lugares tomar  o  captar  momentos  que  tus  ojos  ven , y  quieres  guardarlo b atreves  de  una  fotografía  para  llevar  a tu  mente  de  lugares  y  recuerdos  de  sitios  que  conociste.</p>
                 <span className="categories"><i className="fa fa-tag" />Webdesign, Photography</span>
             </div>
             <div className="link-box">
